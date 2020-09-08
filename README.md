@@ -6,7 +6,7 @@ My name is Brendan, and I'm a recent High School graduate, and freshman Computer
 
 - JavaScript/TypeScript (8 years experience)
 - Robotics (6 years experience)
-- Web Dev & React (3 years experience)
+- React (3 years experience)
 - C++ (2 years experience)
 - Rust (beginner!)
 
@@ -28,7 +28,7 @@ My name is Brendan, and I'm a recent High School graduate, and freshman Computer
 
 <hr />
 
-[keya](https://github.com/MayorMonty/keya), a simple, universal key value store for JavaScript, designed to work in all runtimes<br />
+[keya](https://github.com/MayorMonty/keya), a universal key value store for JavaScript, designed to work in all runtimes<br />
 ⚡ **TypeScript (Node/Browser)** <br />
 - Simple key value API
 - Supports many backends: SQLite3, IndexedDB, Filesystem, Localstorage
