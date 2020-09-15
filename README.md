@@ -44,7 +44,7 @@ My name is Brendan, and I'm a recent High School graduate, and freshman Computer
 
 <hr />
 
-[BCUZ](https://github.com/MayorMonty/BCUZRobotics), Clemson University's Robotics Team. Currently competing in 🔴 [Change Up](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) 🔵<br />
+[BCUZ](https://github.com/BCUZRobotics), Clemson University's Robotics Team. Currently competing in 🔴 [Change Up](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) 🔵<br />
 ⚡ **C++ & Rust** <br />
 - Advanced debugging using a Raspberry Pi Zero W.
 - Dependable, feature complete robot software
