@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brendan, and I'm a recent High School graduate, and freshman Computer Science student at Clemson University.
+My name is Brendan, and I'm a recent High School graduate, and Computer Science student at Clemson University.
 
 🌱 What I'm learning
 
