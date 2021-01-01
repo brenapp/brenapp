@@ -1,52 +1,31 @@
-### Hi there 👋
+## Hey, I'm Brendan
 
-My name is Brendan, and I'm a recent High School graduate, and Computer Science student at Clemson University.
+Computer Science Student at Clemson University. Experience with Web Development, Systems Programming, and Robotics. Always learning! 
 
-🌱 What I'm learning
+<a href="https://discord.com/users/274004148276690944">
+  <img align="left" alt="Brendan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.instagram.com/mayberushes">
+  <img align="left" alt="Brendan's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
+<a href="https://www.linkedin.com/in/bmmcgui/">
+  <img align="left" alt="Brendan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- JavaScript/TypeScript (8 years experience)
-- Robotics (6 years experience)
-- React (3 years experience)
-- C++ (2 years experience)
-- Rust (beginner!)
+</br>
 
-
-🔭 Some things I've been working on recently
-
-[vexbot](https://github.com/MayorMonty/vexbot), a feature-complete discord bot for VEX Robotics focused servers<br />
-⚡ **TypeScript (Node)** <br />
-- Lookup data on VRC/VEXU/VIQC/etc. teams
-- Get reminders when Q&As are published
-- Server Moderation Tools
-- Automatic verification by team
-
-<hr />
-
-[css](https://github.com/MayorMonty/css), a simple, easy-to-read CSS tokenizer and parser written in Rust<br />
-⚡ **Rust** <br />
-- Compliant with [CSS Syntax Module Level 3](https://www.w3.org/TR/css-syntax-3/) 
-
-<hr />
-
-[keya](https://github.com/MayorMonty/keya), a universal key value store for JavaScript, designed to work in all runtimes<br />
-⚡ **TypeScript (Node/Browser)** <br />
-- Simple key value API
-- Supports many backends: SQLite3, IndexedDB, Filesystem, Localstorage
-- Allows storage of complicated objects and classes, using a custom hydration system
-
-<hr />
-
-[snoostorm](https://github.com/MayorMonty/snoostorm), an event based library for streaming from the Reddit API<br />
-⚡ **TypeScript (Node)** <br />
-- Built on top of popular snoowrap library
-- Receieve realtime updates on new Comments, Submissions on Reddit
-- 800 downloads/month
-
-<hr />
-
-[BCUZ](https://github.com/BCUZRobotics), Clemson University's Robotics Team. Currently competing in 🔴 [Change Up](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) 🔵<br />
-⚡ **C++ & Rust** <br />
-- Advanced debugging using a Raspberry Pi Zero W.
-- Dependable, feature complete robot software
-- Odometry, Spline Execution, all that fun stuff
-
+### 🏫 Education
+ - Clemson University Class of 2023
+ - Major in Computer Science
+ - Minor in Mathematical Sciences
+ - GPA: 4.00/4.00
+ 
+### CS & Math Course Work
+ - Introductory Statistics (Fall 2020)
+ - Programming Methodology (Fall 2020)
+ - Discrete Structures for Computing (Spring 2021)
+ - Introduction to Computer Organization (Spring 2021)
+ - Software Development Foundations (Spring 2021)
+ - Calculus of Several Variables (Spring 2021)
+ 
+ 
