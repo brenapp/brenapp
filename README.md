@@ -14,13 +14,27 @@ Computer Science Student at Clemson University. Experience with Web Development,
 
 </br>
 
+### ⚡ Languages
+- JavaScript/TypeScript (8 years)
+
+  Projects: [vexbot](https://github.com/MayorMonty/vexbot), [tm-obs-switcher](https://github.com/MayorMonty/tm-obs-switcher), [snoostorm](https://github.com/MayorMonty/snoostorm) 
+  
+- C/C++ (4 years)
+  
+  Projects: [BCUZ Robotics](https://github.com/BCUZRobotics), [cpsc-1070](https://github.com/MayorMonty/cpsc-1070)
+
+- Rust (1 year)
+  
+  Projects: [css](https://github.com/MayorMonty/css)
+
+
 ### 🏫 Education
  - Clemson University Class of 2023
  - Major in Computer Science
  - Minor in Mathematical Sciences
  - GPA: 4.00/4.00
  
-### CS & Math Course Work
+### 📚 CS & Math Course Work
  - Introductory Statistics (Fall 2020)
  - Programming Methodology (Fall 2020)
  - Discrete Structures for Computing (Spring 2021)
