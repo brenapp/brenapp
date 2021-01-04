@@ -27,7 +27,6 @@ Computer Science Student at Clemson University. Experience with Web Development,
   
   Projects: [css](https://github.com/MayorMonty/css)
 
-
 ### 🏫 Education
  - Clemson University Class of 2023
  - Major in Computer Science
