@@ -25,7 +25,7 @@ Computer Science Student at Clemson University. Experience with Web Development,
 
 - Rust (1 year)
   
-  Projects: [css](https://github.com/MayorMonty/css)
+  Projects: [css](https://github.com/MayorMonty/css), [mtrx](https://github.com/MayorMonty/mtrx)
 
 ### 🏫 Education
  - Clemson University Class of 2023
