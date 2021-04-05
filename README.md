@@ -36,7 +36,7 @@ Computer Science Student at Clemson University. Experience with Web Development,
  
 ### 📚 CS & Math Course Work
  - Introductory Statistics (Fall 2020)
- - Programming Methodology (Fall 2020)
+ - [Programming Methodology](https://github.com/MayorMonty/cpsc-1070) (Fall 2020)
  - Discrete Structures for Computing (Spring 2021)
  - Introduction to Computer Organization (Spring 2021)
  - Software Development Foundations (Spring 2021)
