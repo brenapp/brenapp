@@ -31,7 +31,7 @@ Computer Science Student at Clemson University. Experience with Web Development,
  - Clemson University Class of 2023
  - Major in Computer Science
  - Minor in Mathematical Sciences
- - TA: CPSC 1110/1111
+ - TA: CPSC 1110/1111, CPSC 2310
  - GPA: 4.00/4.00
  
 ### 📚 CS & Math Course Work
