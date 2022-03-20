@@ -1,10 +1,5 @@
-## Hey, I'm Brendan
+![GitHub Intro (1)](https://user-images.githubusercontent.com/8839926/159190326-c2365932-d62d-450f-8c67-c68e3b778954.png)
 
-Computer Science Student at Clemson University. Experience with Web Development, Systems Programming, and Robotics. Always learning! 
-
-<a href="https://discord.com/users/274004148276690944">
-  <img align="left" alt="Brendan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.instagram.com/mayberushes">
   <img align="left" alt="Brendan's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
@@ -12,34 +7,28 @@ Computer Science Student at Clemson University. Experience with Web Development,
   <img align="left" alt="Brendan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-</br>
+<br />
+<br />
+Hello, and welcome to my GitHub profile! You can see some of the projects I have worked on here. Currently, I am studying Computer Science at Clemson University, with my target graduation of May 2023! One of my favorite parts of Computer Science is how hands-on it can be, and how easy it is to create something to solve real problems. 
 
-### ⚡ Languages
-- JavaScript/TypeScript (8 years)
+<br />
+<br />
 
-  Projects: [vexbot](https://github.com/MayorMonty/vexbot), [tm-obs-switcher](https://github.com/MayorMonty/tm-obs-switcher), [snoostorm](https://github.com/MayorMonty/snoostorm), [pd](https://pd.bren.app) 
-  
-- C/C++ (4 years)
-  
-  Projects: [BCUZ Robotics](https://github.com/BCUZRobotics), [cpsc-1070](https://github.com/MayorMonty/cpsc-1070)
+Additionally, on weekends, I work with the Robotics Education & Competition Foundation, as an Event Support Specialist to support K-12 robotics competition across the State of South Carolina! It is such an inspiring experience to see all of these hard-working students building the future of STEM.
+<br />
 
-- Rust (1 year)
-  
-  Projects: [css](https://github.com/MayorMonty/css), [mtrx](https://github.com/MayorMonty/mtrx)
+![Projects Intro](https://user-images.githubusercontent.com/8839926/159191079-cd9ae894-39f4-4b7a-b46c-0a6c94a36af5.png)
 
-### 🏫 Education
- - Clemson University Class of 2023
- - Major in Computer Science
- - Minor in Mathematical Sciences
- - TA: CPSC 1110/1111, CPSC 2310
- - GPA: 4.00/4.00
- 
-### 📚 CS & Math Course Work
- - Introductory Statistics (Fall 2020)
- - [Programming Methodology](https://github.com/MayorMonty/cpsc-1070) (Fall 2020)
- - Discrete Structures for Computing (Spring 2021)
- - Introduction to Computer Organization (Spring 2021)
- - Software Development Foundations (Spring 2021)
- - Calculus of Several Variables (Spring 2021)
- 
- 
+- **[tm-obs-switcher](https://github.com/MayorMonty/tm-obs-switcher)** _(Nodejs)_
+  - Automation tools to assist competitive robotics tournaments automate their livestreams, removing the possibility for error and reducing load on event staff.
+  - Used successfully at dozens of large scale robotics events, including the Kalahari Classic, South Carolina State Championship, and Northeast Wisconsin Showdown
+
+- **[snoostorm](https://github.com/MayorMonty/snoostorm)** _(TypeScript)_
+  - Event-based library for streaming from the Reddit API
+  - Over 1200 downloads/month
+
+- **[mtrx](https://github.com/MayorMonty/mtrx)** _(Rust)_
+  - Matrix Library using Rust's new Const Generics features
+  - Matrix sizes are determined at compile time, allowing for better type checking
+
+
