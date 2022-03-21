@@ -18,8 +18,7 @@ Hello, and welcome to my GitHub profile! You can see some of the projects I have
 Additionally, on weekends, I work with the Robotics Education & Competition Foundation, as an Event Support Specialist to support K-12 robotics competition across the State of South Carolina! It is such an inspiring experience to see all of these hard-working students building the future of STEM.
 <br />
 
-![Projects Intro](https://user-images.githubusercontent.com/8839926/159198031-5f7c5fcc-d1cf-438c-b398-ab702469d39f.png)
-
+![Projects Intro](https://user-images.githubusercontent.com/8839926/159198846-7d2dffec-8e69-4978-a655-cf84c327cc1c.png)
 
 - **[tm-obs-switcher](https://github.com/MayorMonty/tm-obs-switcher)** _(Nodejs)_
   - Automation tools to assist competitive robotics tournaments automate their livestreams, removing the possibility for error and reducing load on event staff.
@@ -38,7 +37,7 @@ Additionally, on weekends, I work with the Robotics Education & Competition Foun
   - Microservice based architecture with C# backends
   - Frontend using Nextjs with TailwindCSS, with Auto0 for custom authentication.
  
-![Work Intro](https://user-images.githubusercontent.com/8839926/159198453-cd190bca-2b60-4987-a737-523058a85479.png)
+![Work Intro](https://user-images.githubusercontent.com/8839926/159198863-3e7185b7-453c-47f6-aeb3-0a11306ce067.png)
 
 - Software Development Internship (Epic Systems) _(Summer 2022)_
 
