@@ -37,5 +37,17 @@ Additionally, on weekends, I work with the Robotics Education & Competition Foun
   - Group Project: ticketing app for venues on Clemson University's campus
   - Microservice based architecture with C# backends
   - Frontend using Nextjs with TailwindCSS, with Auto0 for custom authentication.
-  - 
+ 
+![Work Intro](https://user-images.githubusercontent.com/8839926/159198453-cd190bca-2b60-4987-a737-523058a85479.png)
 
+- Software Development Internship (Epic Systems) _(Summer 2022)_
+
+- Software Engineering Internship (Clemson Energy Visualization & Analytics Center) _(Summer 2021)_
+  - Technologies: TypeScript, React Native, Node, OracleDB, Microsoft SQL Server, Git, Lerna, Next.js, Tailwind, Framer Motion
+  - Lead development of a cross-platform React development app to fulfill the needs of research project
+  - Results published in scientific paper: Adaptive and Personalized Space Recommendation to Match Occupants with Their Preferred Thermal Environments (Building and Environment)
+  - Created engineering process for development: monorepo and branch-based workflow with custom continuous integration
+ 
+- Event Support Specialist (Robotics Education & Competition Foundation) _(September 2021–Present)_
+  - Provides live onsite support to competitive robotics competitions including technical support, rules clarifications, conflict resolution, and ensuring organization mission
+  - Supports nonprofit mission to increase student engagement in STEM throughout SC
