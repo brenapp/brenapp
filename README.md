@@ -33,4 +33,9 @@ Additionally, on weekends, I work with the Robotics Education & Competition Foun
   - Matrix Library using Rust's new Const Generics features
   - Matrix sizes are determined at compile time, allowing for better type checking
 
+- **[tigertix](https://github.com/MayorMonty/tigertix)** _(C#, Nextjs, TailwindCSS, PostgresSQL)_
+  - Group Project: ticketing app for venues on Clemson University's campus
+  - Microservice based architecture with C# backends
+  - Frontend using Nextjs with TailwindCSS, with Auto0 for custom authentication.
+  - 
 
