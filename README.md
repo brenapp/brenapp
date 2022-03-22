@@ -43,7 +43,7 @@ Additionally, on weekends, I work with the Robotics Education & Competition Foun
 
 <br />
 
-**Software Engineering Internship** – Clemson Energy Visualization & Analytics Center _)Summer 2021)_
+**Software Engineering Internship** – Clemson Energy Visualization & Analytics Center _(Summer 2021)_
   - Technologies: TypeScript, React Native, Node, OracleDB, Microsoft SQL Server, Git, Lerna, Next.js, Tailwind, Framer Motion
   - Lead development of a cross-platform React development app to fulfill the needs of research project
   - Results published in scientific paper: Adaptive and Personalized Space Recommendation to Match Occupants with Their Preferred Thermal Environments (Building and Environment)
