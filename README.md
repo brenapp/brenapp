@@ -39,14 +39,19 @@ Additionally, on weekends, I work with the Robotics Education & Competition Foun
  
 ![Work Intro](https://user-images.githubusercontent.com/8839926/159198863-3e7185b7-453c-47f6-aeb3-0a11306ce067.png)
 
-- Software Development Internship (Epic Systems) _(Summer 2022)_
+**Software Development Internship** – Epic Systems _(Summer 2022)_
 
-- Software Engineering Internship (Clemson Energy Visualization & Analytics Center) _(Summer 2021)_
+<br />
+
+**Software Engineering Internship** – Clemson Energy Visualization & Analytics Center _)Summer 2021)_
   - Technologies: TypeScript, React Native, Node, OracleDB, Microsoft SQL Server, Git, Lerna, Next.js, Tailwind, Framer Motion
   - Lead development of a cross-platform React development app to fulfill the needs of research project
   - Results published in scientific paper: Adaptive and Personalized Space Recommendation to Match Occupants with Their Preferred Thermal Environments (Building and Environment)
   - Created engineering process for development: monorepo and branch-based workflow with custom continuous integration
  
-- Event Support Specialist (Robotics Education & Competition Foundation) _(September 2021–Present)_
+ <br />
+ 
+ **Event Support Specialist** – Robotics Education & Competition Foundation _(September 2021–Present)_
   - Provides live onsite support to competitive robotics competitions including technical support, rules clarifications, conflict resolution, and ensuring organization mission
   - Supports nonprofit mission to increase student engagement in STEM throughout SC
+  - Assist in running the 2022 VEX Robotics World Championship, the largest competitive robotics event in the world.
