@@ -20,6 +20,8 @@ Additionally, on weekends, I work with the Robotics Education & Competition Foun
 
 ![Projects Intro](https://user-images.githubusercontent.com/8839926/159198846-7d2dffec-8e69-4978-a655-cf84c327cc1c.png)
 
+See some of my featured projects!
+
 - **[tm-obs-switcher](https://github.com/MayorMonty/tm-obs-switcher)** _(Nodejs)_
   - Automation tools to assist competitive robotics tournaments automate their livestreams, removing the possibility for error and reducing load on event staff.
   - Used successfully at dozens of large scale robotics events, including the Kalahari Classic, South Carolina State Championship, and Northeast Wisconsin Showdown
