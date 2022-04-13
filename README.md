@@ -34,10 +34,15 @@ See some of my featured projects!
   - Matrix Library using Rust's new Const Generics features
   - Matrix sizes are determined at compile time, allowing for better type checking
 
+- **[Plausible Denabilities](https://pd.bren.app)** _(Preact, Nodejs, Web Sockets)_
+  - Realtime guessing game based on The Technical Difficulties' Two of These People Are Lying. 
+  - Players take turns bluffing about a selected prompt, with one player being the judge.
+
 - **[tigertix](https://github.com/MayorMonty/tigertix)** _(C#, Nextjs, TailwindCSS, PostgresSQL)_
   - Group Project: ticketing app for venues on Clemson University's campus
   - Microservice based architecture with C# backends
   - Frontend using Nextjs with TailwindCSS, with Auto0 for custom authentication.
+
  
 ![Work Intro](https://user-images.githubusercontent.com/8839926/159198863-3e7185b7-453c-47f6-aeb3-0a11306ce067.png)
 
