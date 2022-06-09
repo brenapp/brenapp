@@ -47,7 +47,10 @@ See some of my featured projects!
 ![Work Intro](https://user-images.githubusercontent.com/8839926/159198863-3e7185b7-453c-47f6-aeb3-0a11306ce067.png)
 
 **Software Development Internship** – Epic Systems _(Summer 2022)_
-
+  - Technologies: C#, Razor, SQL, TypeScript, Chakra UI, Microsoft SQL Server, d3/visx
+  - Reworking a dashboard to empower system administrators to quickly get an overview of their deployment of Epic's Software
+  - Focus on automatically identifying issues affecting uptime, and allow administrators to quickly troubleshoot
+  - 
 <br />
 
 **Software Engineering Internship** – Clemson Energy Visualization & Analytics Center _(Summer 2021)_
