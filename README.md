@@ -50,7 +50,7 @@ See some of my featured projects!
   - Technologies: C#, Razor, SQL, TypeScript, Chakra UI, Microsoft SQL Server, d3/visx
   - Reworking a dashboard to empower system administrators to quickly get an overview of their deployment of Epic's Software
   - Focus on automatically identifying issues affecting uptime, and allow administrators to quickly troubleshoot
-  - 
+
 <br />
 
 **Software Engineering Internship** – Clemson Energy Visualization & Analytics Center _(Summer 2021)_
