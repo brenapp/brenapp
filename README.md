@@ -43,6 +43,10 @@ See some of my featured projects!
   - Microservice based architecture with C# backends
   - Frontend using Nextjs with TailwindCSS, with Auto0 for custom authentication.
 
+- **[motes](https://github.com/MayorMonty/motes)**
+  - Simple note taking app design for writing down quick notes in meetings
+  - Designed with keyboard navigability and accessibility in mind
+  - Integration with Todoist to add items to a more permenant todo list later on
  
 ![Work Intro](https://user-images.githubusercontent.com/8839926/159198863-3e7185b7-453c-47f6-aeb3-0a11306ce067.png)
 
