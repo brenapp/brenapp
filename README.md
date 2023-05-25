@@ -15,7 +15,7 @@ Hello, and welcome to my GitHub profile! You can see some of the projects I have
 <br />
 <br />
 
-Additionally, on weekends, I work with the Robotics Education & Competition Foundation, as an Event Support Specialist to support K-12 robotics competition across the State of South Carolina! It is such an inspiring experience to see all of these hard-working students building the future of STEM.
+In my free time, I am also active in running robotics tournaments for K-12 students, specifically the VEX Robotics Competition and VEX IQ Competition programs. These programs benefitted me massively when I was going through, and nothing else gets me as excited to wake up at 6:00 AM on a Saturday!
 <br />
 
 ![Projects Intro](https://user-images.githubusercontent.com/8839926/159198846-7d2dffec-8e69-4978-a655-cf84c327cc1c.png)
