@@ -1,30 +1,22 @@
-![GitHub Intro](https://user-images.githubusercontent.com/8839926/159197994-17764cb6-d86b-4ed4-8251-32c1e8e8fd63.png)
-
-
-<a href="https://www.instagram.com/mayberushes">
-  <img align="left" alt="Brendan's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>
-<a href="https://www.linkedin.com/in/bmmcgui/">
-  <img align="left" alt="Brendan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+![Hey, I'm Brendan!(https://user-images.githubusercontent.com/8839926/159197994-17764cb6-d86b-4ed4-8251-32c1e8e8fd63.png)
 
 <br />
 <br />
-Hello, and welcome to my GitHub profile! You can see some of the projects I have worked on here. I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems. One of my favorite parts of Computer Science is how hands-on it can be, and how easy it is to create something to solve real problems. 
+Hello, and welcome to my GitHub profile! You can see some of the projects I have worked on here. I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems. One of my favorite parts of Computer Science is how hands-on it can be and how easy it is to create something to solve real problems. 
 
 <br />
 <br />
 
-In my free time, I am also active in running robotics tournaments for K-12 students, specifically the VEX Robotics Competition and VEX IQ Competition programs. These programs benefitted me massively when I was going through, and nothing else gets me as excited to wake up at 6:00 AM on a Saturday!
+In my free time, I also run robotics tournaments for K-12 students, specifically the VEX Robotics Competition and VEX IQ Competition programs. These programs benefitted me massively when I was going through, and nothing else gets me as excited to wake up at 6:00 AM on a Saturday!
 <br />
 
 ![Projects Intro](https://user-images.githubusercontent.com/8839926/159198846-7d2dffec-8e69-4978-a655-cf84c327cc1c.png)
 
 See some of my featured projects!
 
-- **[tm-obs-switcher](https://github.com/MayorMonty/tm-obs-switcher)** _(Nodejs)_
+- **[tm-switcher](https://github.com/MayorMonty/tm-obs-switcher)** _(Nodejs)_
   - Automation tools to assist competitive robotics tournaments automate their livestreams, removing the possibility for error and reducing load on event staff.
-  - Used successfully at dozens of large scale robotics events, including the Kalahari Classic, South Carolina State Championship, and Northeast Wisconsin Showdown
+  - Used successfully at dozens of large-scale robotics events, including the Kalahari Classic, South Carolina State Championship, and Northeast Wisconsin Showdown
 
 - **[snoostorm](https://github.com/MayorMonty/snoostorm)** _(TypeScript)_
   - Event-based library for streaming from the Reddit API
