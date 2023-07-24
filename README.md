@@ -1,4 +1,4 @@
-![Hey, I'm Brendan!(https://user-images.githubusercontent.com/8839926/159197994-17764cb6-d86b-4ed4-8251-32c1e8e8fd63.png)
+![Hey, I'm Brendan!](https://user-images.githubusercontent.com/8839926/159197994-17764cb6-d86b-4ed4-8251-32c1e8e8fd63.png)
 
 <br />
 <br />
