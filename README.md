@@ -30,11 +30,6 @@ See some of my featured projects!
   - Realtime guessing game based on The Technical Difficulties' Two of These People Are Lying. 
   - Players take turns bluffing about a selected prompt, with one player being the judge.
 
-- **[tigertix](https://github.com/MayorMonty/tigertix)** _(C#, Nextjs, TailwindCSS, PostgresSQL)_
-  - Group Project: ticketing app for venues on Clemson University's campus
-  - Microservice based architecture with C# backends
-  - Frontend using Nextjs with TailwindCSS, with Auto0 for custom authentication.
-
 - **[motes](https://github.com/MayorMonty/motes)** _(React, Tailwind, Next.js)_
   - Simple note taking app design for writing down quick notes in meetings
   - Designed with keyboard navigability and accessibility in mind
