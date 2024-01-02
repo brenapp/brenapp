@@ -10,13 +10,18 @@ Hello, and welcome to my GitHub profile! You can see some of the projects I have
 In my free time, I also run robotics tournaments for K-12 students, specifically the VEX Robotics Competition and VEX IQ Competition programs. These programs benefitted me massively when I was going through, and nothing else gets me as excited to wake up at 6:00 AM on a Saturday!
 <br />
 
-![Projects Intro](https://user-images.githubusercontent.com/8839926/159198846-7d2dffec-8e69-4978-a655-cf84c327cc1c.png)
+**Favorite Projects**
 
-See some of my featured projects!
-
-- **[tm-switcher](https://github.com/MayorMonty/tm-obs-switcher)** _(Nodejs)_
+- **[tm-switcher](https://github.com/brenapp/tm-switcher)** _(Nodejs)_
   - Automation tools to assist competitive robotics tournaments automate their livestreams, removing the possibility for error and reducing load on event staff.
   - Used successfully at dozens of large-scale robotics events, including the Kalahari Classic, South Carolina State Championship, and Northeast Wisconsin Showdown
+
+- **[Referee FYI](https://github.com/brenapp/referee.fyi)** _(React, Tailwind, Cloudflare Workers + KV)_
+  - Mobile-first PWA designed to assist Head Referees at VRC, VEXU, and VIQRC tournaments record and track violations at an event.
+  
+  - Focus on working in low connectivity environments.
+    
+  - Sharing feature based on Cloudflare's KV product.
 
 - **[snoostorm](https://github.com/MayorMonty/snoostorm)** _(TypeScript)_
   - Event-based library for streaming from the Reddit API
