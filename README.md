@@ -1,6 +1,6 @@
 <br />
 <br />
-Hello, and welcome to my GitHub profile! You can see some of the projects I have worked on here. I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems. One of my favorite parts of Computer Science is how hands-on it can be and how easy it is to create something to solve real problems. 
+Welcome to my Github profile! I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems. One of my favorite parts of Computer Science is how hands-on it can be and how easy it is to create something to solve real problems. 
 
 <br />
 <br />
@@ -20,6 +20,8 @@ In my free time, I also run robotics tournaments for K-12 students, specifically
   - Focus on working in low connectivity environments.
     
   - Sharing feature based on Cloudflare's Durable Objects product for real-time referee collaboration.
+ 
+  - Utilize Web Crypto API to secure messages between Referee FYI and prevent unauthorized access.
 
 - **[snoostorm](https://github.com/MayorMonty/snoostorm)** _(TypeScript)_
   - Event-based library for streaming from the Reddit API
