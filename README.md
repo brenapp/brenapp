@@ -1,5 +1,3 @@
-![Hey, I'm Brendan!](https://user-images.githubusercontent.com/8839926/159197994-17764cb6-d86b-4ed4-8251-32c1e8e8fd63.png)
-
 <br />
 <br />
 Hello, and welcome to my GitHub profile! You can see some of the projects I have worked on here. I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems. One of my favorite parts of Computer Science is how hands-on it can be and how easy it is to create something to solve real problems. 
