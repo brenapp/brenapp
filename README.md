@@ -1,6 +1,6 @@
 <br />
 <br />
-Welcome to my Github profile! I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems. One of my favorite parts of Computer Science is how hands-on it can be and how easy it is to create something to solve real problems. 
+I graduated from Clemson University in May 2023, and I currently work as a Software Developer for Epic Systems.
 
 <br />
 <br />
