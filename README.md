@@ -5,7 +5,7 @@ I graduated from Clemson University in May 2023, and I currently work as a Softw
 <br />
 <br />
 
-In my free time, I also run robotics tournaments for K-12 students, specifically the VEX Robotics Competition and VEX IQ Competition programs. These programs benefitted me massively when I was going through, and nothing else gets me as excited to wake up at 6:00 AM on a Saturday!
+In my free time, I also run robotics tournaments for K-12 students, specifically the VEX Robotics Competition and VEX IQ Competition programs. These programs benefitted me massively when I was going through, and nothing else gets me as excited to wake up at 7:00 AM on a Saturday.
 <br />
 
 **Favorite Projects**
@@ -22,20 +22,9 @@ In my free time, I also run robotics tournaments for K-12 students, specifically
   - Sharing feature based on Cloudflare's Durable Objects product for real-time referee collaboration.
  
   - Utilize Web Crypto API to secure messages between Referee FYI and prevent unauthorized access.
-
-- **[snoostorm](https://github.com/MayorMonty/snoostorm)** _(TypeScript)_
-  - Event-based library for streaming from the Reddit API
-  - Over 1200 downloads/month
-
-- **[mtrx](https://github.com/MayorMonty/mtrx)** _(Rust)_
-  - Matrix Library using Rust's new Const Generics features
-  - Matrix sizes are determined at compile time, allowing for better type checking
-
-- **[Plausible Denabilities](https://pd.bren.app)** _(Preact, Nodejs, Web Sockets)_
-  - Realtime guessing game based on The Technical Difficulties' Two of These People Are Lying. 
-  - Players take turns bluffing about a selected prompt, with one player being the judge.
-
+  
 - **[motes](https://github.com/MayorMonty/motes)** _(React, Tailwind, Next.js)_
   - Simple note taking app design for writing down quick notes in meetings
   - Designed with keyboard navigability and accessibility in mind
   - Integration with Todoist to add items to a more permenant todo list later on
+
