@@ -14,7 +14,7 @@ In my free time, I also run robotics tournaments for K-12 students, specifically
   - Automation tools to assist competitive robotics tournaments automate their livestreams, removing the possibility for error and reducing load on event staff.
   - Used successfully at dozens of large-scale robotics events, including the Kalahari Classic, South Carolina State Championship, and Northeast Wisconsin Showdown
 
-- **[Referee FYI](https://github.com/brenapp/referee.fyi)** _(React, Tailwind, Tanstack Query, Cloudflare Workers + DO + KV)_
+- **[Referee FYI](https://referee.fyi)** _(React, Tailwind, Tanstack Query, Cloudflare Workers + DO + KV)_
   - Mobile-first PWA designed to assist Head Referees at VRC, VEXU, and VIQRC tournaments record and track violations at an event.
   
   - Focus on working in low connectivity environments.
